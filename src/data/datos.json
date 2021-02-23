@@ -1,0 +1,115 @@
+{
+    "@context": "http://schema.org",
+    "@type": [
+      "ItemList",
+      "CreativeWork"
+    ],
+    "inLanguage": "English",
+    "description": "The aim of this list of programming languages is to include all notable programming languages in existence, both those in current use and historical ones, in alphabetical order, except for dialects of BASIC and esoteric programming languages.",
+    "version": "2.0.1",
+    "dateModified": "2017-01-10T17:25:54.921Z",
+    "isBasedOnUrl": "http://en.wikipedia.org/wiki/List_of_programming_languages",
+    "itemListOrder": "schema:ItemListOrderAscending",
+    "numberOfItems": 717,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/Formula_language",
+          "@type": "ComputerLanguage",
+          "name": "@Formula"
+        },
+        "position": 0
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/A-0_System",
+          "@type": "ComputerLanguage",
+          "name": "A-0 System"
+        },
+        "position": 1
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/A_Sharp_(.NET)",
+          "@type": "ComputerLanguage",
+          "name": "A# .NET"
+        },
+        "position": 2
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/A_Sharp_(Axiom)",
+          "@type": "ComputerLanguage",
+          "name": "A# (Axiom)"
+        },
+        "position": 3
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/A%2B_(programming_language)",
+          "@type": "ComputerLanguage",
+          "name": "A+"
+        },
+        "position": 4
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/A%2B%2B",
+          "@type": "ComputerLanguage",
+          "name": "A++"
+        },
+        "position": 5
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/ABAP",
+          "@type": "ComputerLanguage",
+          "name": "ABAP"
+        },
+        "position": 6
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/ABC_(programming_language)",
+          "@type": "ComputerLanguage",
+          "name": "ABC"
+        },
+        "position": 7
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/ABC_ALGOL",
+          "@type": "ComputerLanguage",
+          "name": "ABC ALGOL"
+        },
+        "position": 8
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/ABSET",
+          "@type": "ComputerLanguage",
+          "name": "ABSET"
+        },
+        "position": 9
+      },
+      {
+        "@type": "ListItem",
+        "item": {
+          "@id": "http://en.wikipedia.org/wiki/ABSYS",
+          "@type": "ComputerLanguage",
+          "name": "ABSYS"
+        },
+        "position": 10
+      }
+    ]
+}
